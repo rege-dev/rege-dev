@@ -16,7 +16,7 @@
 
 <p> 
   <h1 align="center">Visitor count since 2021<br>
-  <img src="https://profile-counter.glitch.me/RANKTW/count.svg" />
+  <img src="https://profile-counter.glitch.me/rege-dev/count.svg" />
     </h1>
 </p>
 
