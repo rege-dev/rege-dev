@@ -1,20 +1,25 @@
-<p align="center">
-    REGE#0010
-</p>
+```zsh
+> neofetch
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rege-dev&layout=compact&theme=midnight-purple" />
-</p>
+<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rege-dev&show_icons=true&theme=midnight-purple" />
-</p>
+```csharp
+rege-dev@github
+----------------
 
-<p> 
-  <h1 align="center">Visitor count since 2021<br>
-  <img src="https://profile-counter.glitch.me/rege-dev/count.svg" />
-    </h1>
-</p>
+       OS  :  Windows 10
+       WM  :  VMmware
+      CPU  :  Intel Xeon E5 1650
+Languages  :  C, PHP, Python, Java, lua & html
+  Discord  :  REGE#1100
+```
 
-<p align="center">
-    I think he might be involved in some sort of gang or something.
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/ADBAC7/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
+</p>
