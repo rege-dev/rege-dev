@@ -1,7 +1,6 @@
 ```zsh
 > "mess with the best, get fucked like the rest"
 ```
-
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
 ```csharp
