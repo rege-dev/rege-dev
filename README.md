@@ -11,7 +11,7 @@ rege-dev@github
        OS  :  Windows 10
        WM  :  VMware
       CPU  :  Intel Xeon E5 1650
-Languages  :  C, PHP, Python, Java, lua & html
+Languages  :  C, PHP, Python, Java, Lua & html
   Discord  :  REGE#1100
 ```
 
