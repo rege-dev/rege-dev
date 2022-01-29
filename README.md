@@ -11,7 +11,7 @@ rege-dev@github
        WM  :  VMware
       CPU  :  Intel Xeon E5 1650
 Languages  :  C, PHP, Python, Java, Lua & html
-  Discord  :  REGE#1100
+  Discord  :  REGE#0010
 ```
 
 <p align="left">
