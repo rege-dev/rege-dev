@@ -7,8 +7,10 @@
 rege-dev@github
 ----------------
 
-       OS  :  Windows 10
-       WM  :  VMware
+       OS  :  Arch Linux x86_64
+       WM  :  Gnome
+    Shell  :  zsh 5.8
+ Terminal  :  Alacritty
       CPU  :  Intel Xeon E5 1650
 Languages  :  C, PHP, Python, Java, Lua & html
   Discord  :  REGE#0010
