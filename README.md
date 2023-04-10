@@ -13,7 +13,7 @@ rege-dev@github
  Terminal  :  Alacritty
       CPU  :  Intel Xeon E5 1650
 Languages  :  C, PHP, Python, Java, Lua & html
-  Discord  :  REGE#0010
+  Discord  :  REGE#0050
 ```
 
 <p align="left">
