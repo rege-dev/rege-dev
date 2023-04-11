@@ -1,23 +1,11 @@
-```zsh
-> "mess with the best, get fucked like the rest"
-```
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
-
-```csharp
-rege-dev@github
-----------------
-
-       OS  :  Arch Linux x86_64
-       WM  :  Gnome
-    Shell  :  zsh 5.8
- Terminal  :  Alacritty
-      CPU  :  Intel Xeon E5 1650
-Languages  :  C, PHP, Python, Java, Lua & html
-  Discord  :  REGE#0050
-```
-
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+</p>
+<p align="center">
+    rege-dev
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=rege-dev&color=grey">
 </p>
     <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
 </p>
