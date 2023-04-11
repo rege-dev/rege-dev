@@ -6,6 +6,3 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=rege-dev&color=grey">
 </p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/949882835580383282.png"/>
-</p>
