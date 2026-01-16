@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Terve, I'm REGE
+# 👋 Terve, I'm Rege
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Game+Modding+Enthusiast;Security+Researcher;Open+Source+Contributor" alt="Typing SVG" />
 
