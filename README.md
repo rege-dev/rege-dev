@@ -1,6 +1,5 @@
-# 👋 Terve, I'm REGE
+# 👋 Hello, I'm REGE
 
-## Game Modding Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rege-dev&color=ff006e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rege-dev)
 
